@@ -1,0 +1,187 @@
+{
+  "projectStatus": "needs_client_review",
+  "businessName": "Criativa Presentes e Brindes personalizados",
+  "responsibleName": null,
+  "slug": "criativa-presentes-e-brindes-personalizados",
+  "city": null,
+  "instagram": "https://www.instagram.com/criativavg/",
+  "logoUrl": null,
+  "mapsUrl": null,
+  "theme": {
+    "source": "sugestao_a_partir_da_foto_de_perfil_e_das_mídias_publicas",
+    "isSuggestion": true,
+    "palette": {
+      "ivory": "#F7F0E7",
+      "blush": "#E9B9B3",
+      "burgundy": "#7C1F2E",
+      "gold": "#C9A44C",
+      "leaf": "#3F5A3B",
+      "ink": "#262225"
+    },
+    "visualNotes": "Visual afetivo e artesanal, com fundo claro, flores em vermelho/bordô, detalhes dourados e acentos rosa. Validar a paleta antes da publicação."
+  },
+  "hero": {
+    "headline": "Presentes e brindes personalizados para marcar momentos especiais",
+    "subheadline": "Caixas, canecas, camisetas e detalhes feitos do seu jeito.",
+    "assetFile": "asset_005.jpg",
+    "assetRole": "hero",
+    "ctaLabel": "Pedir orçamento pelo WhatsApp"
+  },
+  "featuredOffer": {
+    "id": "presentes-personalizados",
+    "name": "Presentes personalizados",
+    "shortDescription": "Caixas, canecas e kits montados para transformar uma ocasião em lembrança.",
+    "source": "bio, destaque Presentes e posts públicos",
+    "confidence": "alto",
+    "assetFile": "asset_003.jpg"
+  },
+  "offers": [
+    {
+      "id": "presentes-personalizados",
+      "name": "Presentes personalizados",
+      "shortDescription": "Caixas, canecas e kits montados para presentear com afeto.",
+      "source": "bio; destaque Presentes; posts Dd4K0MZEfoS, Dcy5vG4IOev, Dcy5kKHIEwr, Dco-eiCGUqX, DcLikZFkT58 e DcJrirgINm5",
+      "confidence": "alto",
+      "assetFile": "asset_006.jpg"
+    },
+    {
+      "id": "brindes-personalizados",
+      "name": "Brindes personalizados",
+      "shortDescription": "Itens personalizados para celebrar pessoas, equipes e ocasiões especiais.",
+      "source": "nome público do perfil e bio",
+      "confidence": "alto",
+      "assetFile": "asset_010.jpg"
+    },
+    {
+      "id": "camisetas-especiais",
+      "name": "Camisetas e fardamento personalizados",
+      "shortDescription": "Camisetas e fardamentos com aplicação de DTF têxtil.",
+      "source": "bio; destaque Camisetas; destaque DTF têxtil; post Dc1_Jd-jWNt",
+      "confidence": "alto",
+      "assetFile": "asset_004.jpg"
+    },
+    {
+      "id": "convites-e-caixas-personalizadas",
+      "name": "Convites e caixas personalizadas",
+      "shortDescription": "Caixas-convite revestidas e personalizadas para momentos importantes.",
+      "source": "post recente Dd4K0MZEfoS",
+      "confidence": "alto",
+      "assetFile": "asset_003.jpg"
+    },
+    {
+      "id": "pecas-artesanais",
+      "name": "Peças artesanais",
+      "shortDescription": "Peças feitas para compor presentes e lembranças com identidade.",
+      "source": "destaque Peças artesanais",
+      "confidence": "medio",
+      "assetFile": null
+    },
+    {
+      "id": "kit-gin",
+      "name": "Kit Gin",
+      "shortDescription": "Kits personalizados para presentear e comemorar.",
+      "source": "destaque Kit Gin",
+      "confidence": "medio",
+      "assetFile": null
+    }
+  ],
+  "galleryAssets": [
+    "asset_008.jpg",
+    "asset_011.jpg",
+    "asset_012.jpg",
+    "asset_009.jpg"
+  ],
+  "preFooter": {
+    "assetFile": "asset_007.jpg",
+    "copyAngle": "Fechar com a ideia de um presente que carrega carinho, personalidade e a ocasião de quem vai receber."
+  },
+  "contact": {
+    "whatsappNumber": "5565992177081",
+    "whatsappLink": "https://wa.me/5565992177081",
+    "address": null,
+    "mapsUrl": null,
+    "latitude": null,
+    "longitude": null,
+    "navigationApps": []
+  },
+  "bioLinks": [
+    {
+      "label": "WhatsApp",
+      "url": "https://wa.me/5565992177081",
+      "function": "Abre uma conversa direta com a Criativa no WhatsApp.",
+      "placement": "Hero, CTA das ofertas, PreFooterSection, Footer e FloatingWhatsapp"
+    }
+  ],
+  "copyDirection": {
+    "publico": "Pessoas que procuram presentes, brindes e peças personalizadas para demonstrar carinho em ocasiões especiais; também igrejas, equipes e grupos que precisam de camisetas ou fardamento personalizado.",
+    "dorPrincipal": "Encontrar algo que represente a pessoa ou a ocasião sem cair em um presente genérico, e conseguir orçamento para personalização sem complicação.",
+    "promessa": "Ajudar o cliente a transformar uma ideia, mensagem ou ocasião em um presente ou peça personalizada com afeto e identidade.",
+    "objecoes": [
+      "Não saber qual presente ou composição escolher.",
+      "Receio de a personalização não ficar como imaginado.",
+      "Dúvidas sobre orçamento, prazo, quantidade mínima e possibilidades de aplicação."
+    ],
+    "tom": "Afetuoso, artesanal, visual, próximo e direto; valoriza carinho, propósito, personalização e ocasiões de celebração.",
+    "palavrasChave": [
+      "presentes exclusivos",
+      "brindes personalizados",
+      "camisetas especiais",
+      "personalizada",
+      "DTF têxtil",
+      "afeto",
+      "amor",
+      "carinho",
+      "propósito",
+      "orçamento via WhatsApp"
+    ],
+    "validationNote": "As objeções e a formulação de promessa são direção de copy inferida a partir da bio, destaques, imagens e legendas públicas; validar com a cliente antes da publicação."
+  },
+  "sections": {
+    "authority": true,
+    "featuredOffer": true,
+    "offerGrid": true,
+    "howItWorks": true,
+    "resultsGallery": true,
+    "about": true,
+    "location": false,
+    "faq": true,
+    "preFooter": true
+  },
+  "primaryCta": {
+    "label": "Pedir orçamento pelo WhatsApp",
+    "action": "whatsapp",
+    "messageKey": "geral"
+  },
+  "messagesByOfferId": {
+    "geral": "Olá! Vim pelo site da Criativa e quero falar sobre um presente ou produto personalizado.",
+    "presentes-personalizados": "Olá! Vim pelo site da Criativa e quero encomendar um presente personalizado. Pode me ajudar a escolher?",
+    "brindes-personalizados": "Olá! Vim pelo site da Criativa e quero saber sobre brindes personalizados.",
+    "camisetas-especiais": "Olá! Vim pelo site da Criativa e quero um orçamento para camisetas ou fardamento personalizado com DTF têxtil.",
+    "convites-e-caixas-personalizadas": "Olá! Vim pelo site da Criativa e quero um orçamento para uma caixa-convite personalizada.",
+    "pecas-artesanais": "Olá! Vim pelo site da Criativa e quero conhecer as peças artesanais disponíveis.",
+    "kit-gin": "Olá! Vim pelo site da Criativa e quero saber sobre Kit Gin personalizado."
+  },
+  "tracking": {
+    "metaPixelId": null,
+    "googleTagId": null
+  },
+  "openQuestions": [
+    "Logo oficial não foi fornecida; usar marca tipográfica no site até a cliente enviar ou aprovar uma logo. A foto de perfil é apenas candidata de marca e depende de autorização.",
+    "Maps e coordenadas não foram informados; contact.mapsUrl, latitude e longitude permanecem null e não há botão Ir para o local.",
+    "Endereço e cidade não aparecem no perfil público; não exibir localização ou cidade até confirmação.",
+    "Horário de atendimento não aparece no perfil público.",
+    "Categoria comercial do Instagram não foi confirmada.",
+    "Nome da responsável não foi confirmado; o perfil é tratado como empresa, não como perfil pessoal.",
+    "Não há catálogo, cardápio, loja ou link de agendamento externo na bio pública; o único link encontrado é o WhatsApp.",
+    "Preços, prazos, quantidade mínima, formas de pagamento, entrega e disponibilidade não foram informados.",
+    "Validar com a cliente o conjunto final de ofertas, especialmente Peças artesanais e Kit Gin, antes da publicação.",
+    "Todas as mídias estão em referência_only_pending_authorization; obter autorização humana antes de publicar.",
+    "O domínio público do site não foi informado; NEXT_PUBLIC_SITE_URL permanece pendente para metadata, sitemap e Open Graph.",
+    "O Reel público DdHVm7mROf6 teve a capa salva, mas o arquivo de vídeo não foi disponibilizado; manter o vídeo como unavailable."
+  ],
+  "publicationGuard": {
+    "publicMediaIsAuthorized": false,
+    "beforeAfterNeedsApproval": true,
+    "humanReviewRequired": true
+  }
+}
